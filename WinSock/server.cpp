@@ -7,6 +7,7 @@
 #include <WS2tcpip.h>
 #include <Windows.h>
 #include <iostream>
+#include "Client.h"
 
 #pragma comment (lib, "Ws2_32.lib")
 
